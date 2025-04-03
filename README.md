@@ -4,9 +4,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
+-   [Screenshot](#screenshot)
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
     -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot_1.png)
+![](./Screenshot_1.png)
 ![](./Screenshot_2.png)
 
 ### Links
